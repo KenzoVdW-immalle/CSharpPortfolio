@@ -1,0 +1,14 @@
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\sliders enzo\sliders enzo\bin\Debug\sliders enzo.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefening met slider\sliders enzo\bin\Debug\sliders enzo.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\bin\Debug\sliders enzo.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\bin\Debug\sliders enzo.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\bin\Debug\sliders enzo.pdb
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\obj\Debug\sliders enzo.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\obj\Debug\sliders enzo.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\obj\Debug\sliders enzo.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\bin\Debug\sliders enzo.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\obj\Debug\sliders enzo.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\obj\Debug\sliders enzo.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\bin\Debug\sliders enzo.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\bin\Debug\sliders enzo.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefening_met_ne_readkey\sliders enzo\obj\Debug\sliders enzo.csprojResolveAssemblyReference.cache

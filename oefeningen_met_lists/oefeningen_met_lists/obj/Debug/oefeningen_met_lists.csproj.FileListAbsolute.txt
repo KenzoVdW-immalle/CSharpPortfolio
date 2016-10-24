@@ -1,0 +1,12 @@
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\bin\Debug\oefeningen_met_lists.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\bin\Debug\oefeningen_met_lists.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\bin\Debug\oefeningen_met_lists.pdb
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\obj\Debug\oefeningen_met_lists.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\obj\Debug\oefeningen_met_lists.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\obj\Debug\oefeningen_met_lists.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\bin\Debug\oefeningen_met_lists.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\obj\Debug\oefeningen_met_lists.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\obj\Debug\oefeningen_met_lists.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\bin\Debug\oefeningen_met_lists.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\bin\Debug\oefeningen_met_lists.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\oefeningen_met_lists\oefeningen_met_lists\obj\Debug\oefeningen_met_lists.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Oefening_met_listbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening_met_listbox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ListBox x:Name="listBox_1" HorizontalAlignment="Left" Height="100" Margin="407,10,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="button" Content="add&#xD;&#xA;" HorizontalAlignment="Left" Margin="184,10,0,0" VerticalAlignment="Top" Width="121" Height="44" Click="button_Click"/>
+        <TextBox x:Name="textBoxText" HorizontalAlignment="Left" Height="44" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="146"/>
+        <TextBox x:Name="textBoxRemove" HorizontalAlignment="Left" Height="41" Margin="10,59,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="170"/>
+        <Button Content="remove" HorizontalAlignment="Left" Margin="212,59,0,0" VerticalAlignment="Top" Width="93" Height="41" Click="Button_Click_1"/>
+    </Grid>
+</Window>

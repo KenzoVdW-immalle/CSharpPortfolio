@@ -1,0 +1,28 @@
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\bin\Debug\Oefening_met_listbox.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\bin\Debug\Oefening_met_listbox.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\bin\Debug\Oefening_met_listbox.pdb
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\MainWindow.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\App.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox_MarkupCompile.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox_MarkupCompile.lref
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\MainWindow.baml
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.g.resources
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.Properties.Resources.resources
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.csproj.GenerateResource.Cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\bin\Debug\Oefening_met_listbox.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\bin\Debug\Oefening_met_listbox.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\bin\Debug\Oefening_met_listbox.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\MainWindow.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\App.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox_MarkupCompile.cache
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox_MarkupCompile.lref
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\MainWindow.baml
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.g.resources
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.Properties.Resources.resources
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\oefeningen voor examen\Oefening_met_listbox\Oefening_met_listbox\obj\Debug\Oefening_met_listbox.csproj.GenerateResource.Cache

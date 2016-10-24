@@ -1,0 +1,28 @@
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\bin\Debug\klasse.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\MainWindow.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\App.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\klasse_MarkupCompile.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\klasse_MarkupCompile.lref
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\bin\Debug\klasse.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\bin\Debug\klasse.pdb
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\MainWindow.baml
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.g.resources
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.Properties.Resources.resources
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.csproj.GenerateResource.Cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\bin\Debug\klasse.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\bin\Debug\klasse.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\bin\Debug\klasse.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\MainWindow.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\App.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\klasse_MarkupCompile.cache
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\klasse_MarkupCompile.lref
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\MainWindow.baml
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.g.resources
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.Properties.Resources.resources
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\klasse\klasse\obj\Debug\klasse.csproj.GenerateResource.Cache

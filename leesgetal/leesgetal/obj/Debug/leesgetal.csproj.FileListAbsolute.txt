@@ -1,0 +1,12 @@
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\leesgetal\leesgetal\bin\Debug\leesgetal.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\leesgetal\leesgetal\obj\Debug\leesgetal.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\leesgetal\leesgetal\bin\Debug\leesgetal.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\leesgetal\leesgetal\bin\Debug\leesgetal.pdb
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\leesgetal\leesgetal\obj\Debug\leesgetal.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\leesgetal\leesgetal\obj\Debug\leesgetal.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\leesgetal\leesgetal\bin\Debug\leesgetal.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\leesgetal\leesgetal\obj\Debug\leesgetal.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\leesgetal\leesgetal\obj\Debug\leesgetal.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\leesgetal\leesgetal\bin\Debug\leesgetal.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\leesgetal\leesgetal\bin\Debug\leesgetal.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\leesgetal\leesgetal\obj\Debug\leesgetal.csprojResolveAssemblyReference.cache

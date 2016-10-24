@@ -1,0 +1,28 @@
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\bin\Debug\carcount.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\bin\Debug\carcount.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\bin\Debug\carcount.pdb
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\MainWindow.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\App.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\carcount_MarkupCompile.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\carcount_MarkupCompile.lref
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\MainWindow.baml
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.g.resources
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.Properties.Resources.resources
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.csproj.GenerateResource.Cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\bin\Debug\carcount.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\bin\Debug\carcount.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\bin\Debug\carcount.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\MainWindow.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\App.g.cs
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\carcount_MarkupCompile.cache
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\carcount_MarkupCompile.lref
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\MainWindow.baml
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.g.resources
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.Properties.Resources.resources
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\carcount\carcount\obj\Debug\carcount.csproj.GenerateResource.Cache

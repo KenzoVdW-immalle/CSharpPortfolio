@@ -1,0 +1,18 @@
+﻿<Window x:Class="klasse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:klasse"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="growButton" Content="grow" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="growButton_Click"/>
+        <Button x:Name="moveButton" Content="moveRight" HorizontalAlignment="Left" Margin="432,10,0,0" VerticalAlignment="Top" Width="75" Click="moveButton_Click"/>
+        <Canvas x:Name="drawingCanvas" HorizontalAlignment="Left" Height="226" Margin="10,35,0,0" VerticalAlignment="Top" Width="497"/>
+        <Canvas HorizontalAlignment="Left" Height="100" Margin="403,97,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="MoveleftButton" Content="moveLeft" HorizontalAlignment="Left" Margin="10,289,0,0" VerticalAlignment="Top" Width="75" Click="MoveleftButton_Click"/>
+        <Button x:Name="button_Copy" Content="Smaller" HorizontalAlignment="Left" Margin="432,289,0,0" VerticalAlignment="Top" Width="75" Click="button_Copy_Click"/>
+
+    </Grid>
+</Window>

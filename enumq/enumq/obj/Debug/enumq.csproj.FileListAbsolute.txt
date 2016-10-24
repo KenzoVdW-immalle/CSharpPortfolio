@@ -1,0 +1,9 @@
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\enumq\enumq\bin\Debug\enumq.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\enumq\enumq\bin\Debug\enumq.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\enumq\enumq\bin\Debug\enumq.pdb
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\enumq\enumq\obj\Debug\enumq.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\enumq\enumq\obj\Debug\enumq.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\enumq\enumq\obj\Debug\enumq.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\enumq\enumq\bin\Debug\enumq.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\enumq\enumq\obj\Debug\enumq.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\enumq\enumq\obj\Debug\enumq.pdb

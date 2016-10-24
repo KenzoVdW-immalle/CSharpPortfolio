@@ -1,0 +1,12 @@
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\datetimes\datetimes\bin\Debug\datetimes.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\datetimes\datetimes\bin\Debug\datetimes.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\datetimes\datetimes\bin\Debug\datetimes.pdb
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\datetimes\datetimes\obj\Debug\datetimes.csprojResolveAssemblyReference.cache
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\datetimes\datetimes\obj\Debug\datetimes.exe
+C:\Users\anikenpatrick\Documents\Kenzo School\software\Oefeningen\datetimes\datetimes\obj\Debug\datetimes.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\datetimes\datetimes\bin\Debug\datetimes.exe.config
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\datetimes\datetimes\obj\Debug\datetimes.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\datetimes\datetimes\obj\Debug\datetimes.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\datetimes\datetimes\bin\Debug\datetimes.exe
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\datetimes\datetimes\bin\Debug\datetimes.pdb
+C:\Users\anikenpatrick\Documents\Kenzo_School\software\Oefeningen\datetimes\datetimes\obj\Debug\datetimes.csprojResolveAssemblyReference.cache
